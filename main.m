@@ -1,5 +1,4 @@
 ir_sensor = rossubscriber('/bob/ir_sensor');
-% heading = rossubscriber('/bob/heading');
 
 ir_motor = rospublisher('/bob/ir_motor');
 
