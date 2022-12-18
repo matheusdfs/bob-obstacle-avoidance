@@ -1,0 +1,9 @@
+Objective:
+-Draw a square
+-Avoid a static obstacle
+-Automonomous navegation with dynamic obstacle
+
+TODO List:
+-Correct the forward direction (PID)                    --> Diniz
+-Use wheel encoder to generate the correct position     --> Diniz
+-Upgrade actual algorithm to include dynamic obstacles  --> Evandro e Pedro
